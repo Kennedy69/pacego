@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515632399978",
+    "project_id": "pacego-e8209",
+    "storage_bucket": "pacego-e8209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515632399978:android:44d6f82daef57df53d2c13",
+        "android_client_info": {
+          "package_name": "com.example.pacego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515632399978-a1n715gvlf2oje61n35e1ag842fm3nsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC84xEShyOBc_7-1al2g3OcyePkYPC7c_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515632399978-a1n715gvlf2oje61n35e1ag842fm3nsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
